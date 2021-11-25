@@ -10,37 +10,37 @@ Axel Gavan (1202190004)
 
    - Klik link yang ada pada soal UTS
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124170707004.png" alt="image-20211124170707004" style="zoom:50%;" />
+     ![1](https://user-images.githubusercontent.com/94977405/143465811-0c5ef7c5-001a-4cbc-bcc0-45025c0da65b.png)
 
    - Pilih download the ISO kemudian ikuti step by stepnya
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124170733352.png" alt="image-20211124170733352" style="zoom:50%;" />
+     ![2](https://user-images.githubusercontent.com/94977405/143465829-d4d52e07-0d6a-425e-b1b8-25423d08a5ac.png)
 
    - Pilih bahasa kemudian klik "download"
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124170748715.png" alt="image-20211124170748715" style="zoom:50%;" />
+     ![3](https://user-images.githubusercontent.com/94977405/143465846-be9b890a-8a40-48ef-a34a-0c542151106c.png)
 
 2. Langkah-langkah instalasi :
 
    - Buka VirtualBox kemudian klik "Machine>New" kemudian setting seperti gambar dibawah ini kemudian next
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124170841016.png" alt="image-20211124170841016" style="zoom:50%;" />
+     ![4](https://user-images.githubusercontent.com/94977405/143465852-fcf45ccc-04b3-4dfd-9aa9-130d62ce2bd4.png)
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124170858119.png" alt="image-20211124170858119" style="zoom:50%;" />
+    ![5](https://user-images.githubusercontent.com/94977405/143465864-f2944a25-6099-42db-a51b-7a50bdfba11a.png)
+    
+![6](https://user-images.githubusercontent.com/94977405/143465872-b4482b7d-475f-43e0-bbc7-3b2e569b7006.png)
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124170913546.png" alt="image-20211124170913546" style="zoom:50%;" />
+![7](https://user-images.githubusercontent.com/94977405/143465903-2e693e97-d71a-450a-8ae8-f890300206f2.png)
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124170942703.png" alt="image-20211124170942703" style="zoom:50%;" />
+![8](https://user-images.githubusercontent.com/94977405/143465911-9de11601-c58b-439b-8456-2a92e7e9f303.png)
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124171015761.png" alt="image-20211124171015761" style="zoom:50%;" />
+![9](https://user-images.githubusercontent.com/94977405/143465938-80cf2c93-5970-426a-8f6c-48f8e0879a3d.png)
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124171046314.png" alt="image-20211124171046314" style="zoom:50%;" />
+![10](https://user-images.githubusercontent.com/94977405/143465955-c598de86-33c9-45bf-87be-83ee1269f823.png)
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124171105402.png" alt="image-20211124171105402" style="zoom:50%;" />
+![11](https://user-images.githubusercontent.com/94977405/143465983-c4174cff-4f15-4cd8-a98a-345b6ff73011.png)
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124171129317.png" alt="image-20211124171129317" style="zoom:50%;" />
-
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124171144476.png" alt="image-20211124171144476" style="zoom:50%;" />
+![12](https://user-images.githubusercontent.com/94977405/143466080-bccfbcb3-e201-40f4-9465-b3648d8eef89.png)
 
      
 
@@ -48,170 +48,167 @@ Axel Gavan (1202190004)
 
    - Setting zona waktu Indonesia
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124171228028.png" alt="image-20211124171228028" style="zoom:50%;" />
+     ![13](https://user-images.githubusercontent.com/94977405/143466091-360ebfd3-4b95-409e-8e8c-90c6e5374859.png)
 
    - Klik "Install now"
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124171251623.png" alt="image-20211124171251623" style="zoom:50%;" />
+     ![14](https://user-images.githubusercontent.com/94977405/143466112-6fac4793-1341-4377-92e3-2e0afb0233eb.png)
 
    - Pilih WIndows Server 2022 Datacenter Evaluation (desktop experience) kemudian klik "next"
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124171306891.png" alt="image-20211124171306891" style="zoom:50%;" />
-
+     ![15](https://user-images.githubusercontent.com/94977405/143466132-32cd87e3-9906-4ff0-998a-3908fb2be1a6.png)
    - Klik centang dan "next"
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124171328105.png" alt="image-20211124171328105" style="zoom:50%;" />
-
+     ![16](https://user-images.githubusercontent.com/94977405/143466150-7b4530e5-c513-4798-9d0d-01f116f20206.png)
    - Pilih "Custom: Install Microsoft Server Operating System only (advanced)"
 
-     <img src="https://user-images.githubusercontent.com/93044506/143055682-01fa476a-c65f-4bc2-844b-56ae611b9779.png" alt="img" style="zoom:50%;" />
+     ![17](https://user-images.githubusercontent.com/94977405/143466189-feb43183-13d6-41ab-bb02-8bbdb58eb493.png)
 
    - Kemudian klik "Next"
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124171659061.png" alt="image-20211124171659061" style="zoom:50%;" />
+     ![18](https://user-images.githubusercontent.com/94977405/143466204-52ad4136-3b89-4227-afc2-6177e2d5b771.png)
 
    - Tunggu hingga proses install selesai
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124171724664.png" alt="image-20211124171724664" style="zoom:50%;" />
+     ![19](https://user-images.githubusercontent.com/94977405/143466209-4f658f7f-d35f-49ae-9c04-4f9957ac45e9.png)
 
    - Setelah proses install selesai maka akan muncul tampilan seperti ini
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124172119881.png" alt="image-20211124172119881" style="zoom:50%;" />
+     ![20](https://user-images.githubusercontent.com/94977405/143466267-13415dd9-7ef3-4420-b7a8-46f11df6b15a.png)
 
    - Buat password kemudian klik "Input>Keyboard>Insert Ctrl+Alt+Del"
 
-   - <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124172137778.png" alt="image-20211124172137778" style="zoom:50%;" />
+     ![21](https://user-images.githubusercontent.com/94977405/143466283-7ce62a36-ceef-4290-915a-69f04fb3acf1.png)
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124172347684.png" alt="image-20211124172347684" style="zoom:50%;" />
+     ![22](https://user-images.githubusercontent.com/94977405/143466293-37a6a158-be48-42d3-a5ac-6d8a0541a896.png)
 
    - Kemudian masuk ke menu "Devices >Insert Guest Additions CD Image>file explorer>cd Drive Virtual box> lalu pilih VBoxWindowsAdditions
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124172423053.png" alt="image-20211124172423053" style="zoom:50%;" />
+     ![23](https://user-images.githubusercontent.com/94977405/143466297-fe4829ad-31d2-4ff4-ad34-6d13153c5634.png)
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124172433942.png" alt="image-20211124172433942" style="zoom:50%;" />
+     ![24](https://user-images.githubusercontent.com/94977405/143466303-137b87e3-27fd-4169-88b6-794f88d47982.png)
 
    - Maka muncul seperti ini,dan ikuti step by step seperti digambar lalu klik "next"
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124172458419.png" alt="image-20211124172458419" style="zoom:50%;" />
+     ![25](https://user-images.githubusercontent.com/94977405/143466331-8524b8f7-3a1c-4656-94fc-a56109c77bf1.png)
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124172508026.png" alt="image-20211124172508026" style="zoom:50%;" />
+     ![26](https://user-images.githubusercontent.com/94977405/143466341-86d5dbbb-1e66-420f-8f1e-b47d1b93e7e9.png)
 
    - Klik "Install"
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124172520605.png" alt="image-20211124172520605" style="zoom:50%;" />
-
+     ![27](https://user-images.githubusercontent.com/94977405/143466351-8c4093df-6a5b-4198-a155-6c68c3306ea8.png)
    - Klik "finish"
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124172655510.png" alt="image-20211124172655510" style="zoom:50%;" />
+     ![28](https://user-images.githubusercontent.com/94977405/143466356-6cd81c23-5e81-4232-bf59-d21a3d8926f1.png)
 
    - Kemudian Reboot now, lalu masukkan password melalui "Input>Keyboard>Insert Ctrl+Alt+Del"
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124172707851.png" alt="image-20211124172707851" style="zoom:50%;" />
+     ![29](https://user-images.githubusercontent.com/94977405/143466384-54977127-8b74-47ed-94aa-1ab87b547153.png)
 
    - Ubah nama computer pada windows powershell dengan mengetik "rename-computer -Newname Server2022”
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124172727784.png" alt="image-20211124172727784" style="zoom:50%;" />
+     ![30](https://user-images.githubusercontent.com/94977405/143466394-94cc562c-949c-4c76-803a-2616431034e2.png)
 
    - Lalu masuk ke server klik "manage", kemudian pilih Add Roles and Features dan klik "next"
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124172744323.png" alt="image-20211124172744323" style="zoom:50%;" />
+     ![31](https://user-images.githubusercontent.com/94977405/143466411-63be807b-34fd-4480-80bf-4e0ab7ebdc4b.png)
 
    - Pilih Role-Based or feature-based installation kemudian next
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124172815035.png" alt="image-20211124172815035" style="zoom:50%;" />
+     ![32](https://user-images.githubusercontent.com/94977405/143466433-fa8d43da-022f-4ecb-8da0-d536eb91d469.png)
 
    - Klik “Select a server from the server pool” untuk memilih direktori penyimpanan lokal. Lalu “Next”
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124172831951.png" alt="image-20211124172831951" style="zoom:50%;" />
+     ![33](https://user-images.githubusercontent.com/94977405/143466451-442de555-237f-4a82-aed7-dc305de5895c.png)
 
    - Selanjutnya, berikan tanda centang di kotak “Active Directory Domain Services”. Saat anda mencentang kotak, disebelah kanan muncul penjelasan singkat tentang ADDS dan cara kerjanya. Lalu klik “Add Features”
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124172859555.png" alt="image-20211124172859555" style="zoom:50%;" />
+     ![34](https://user-images.githubusercontent.com/94977405/143466459-38505535-8666-4cc2-88cd-057ab7ed9068.png)
 
    - Kemudian centang kotak “Group Policy Management” dan tekan tombol “Next”
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124172936587.png" alt="image-20211124172936587" style="zoom:50%;" />
+     ![35](https://user-images.githubusercontent.com/94977405/143466493-4054d61d-fe83-46e5-b264-28ae99f4bb10.png)
 
    - Klik "next"
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124172958244.png" alt="image-20211124172958244" style="zoom:50%;" />
+     ![36](https://user-images.githubusercontent.com/94977405/143466500-725ab193-2d29-44bc-bde6-c54696101a59.png)
 
    - Klik "install"
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124173009181.png" alt="image-20211124173009181" style="zoom:50%;" />
+     ![37](https://user-images.githubusercontent.com/94977405/143466517-cedc0787-6704-4c93-8fd4-d91bc3c65608.png)
 
    - Tunggu hingga proses instalasi selesai kemudian melakukan konfigurasi ADDS
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124173048636.png" alt="image-20211124173048636" style="zoom:50%;" />
+     ![38](https://user-images.githubusercontent.com/94977405/143466524-e9e2d0ce-41d5-4dc7-af1e-8c6754e61842.png)
 
    - Kemudian lakukan install **DNS Server** dengan masuk ke menu “Server Manager”. Lalu pilih opsi “Manage>Add Roles and Features”. Kemudian klik “Next”. Stepnya sama seperti instalasi active directory. Kita perlu menginstal dan mengonfigurasi peran Active Directory dan server DNS untuk bekerja bersama. 
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124173150026.png" alt="image-20211124173150026" style="zoom:50%;" />
+     ![39](https://user-images.githubusercontent.com/94977405/143466532-5abb1f5e-844e-441e-bfc2-afd9832efd79.png)
 
    - Kemudian lakukan install **Net Framework 3.5** centang "Net Framework 3.5 features"
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124173235074.png" alt="image-20211124173235074" style="zoom:50%;" />
+     ![40](https://user-images.githubusercontent.com/94977405/143466546-5bb0e132-60cb-4ee7-bf12-684555fddabc.png)
 
    - Klik "Next"
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124211021880.png" alt="image-20211124211021880" style="zoom:50%;" />
+     ![41](https://user-images.githubusercontent.com/94977405/143466551-466dcb63-992c-4298-a1cf-cf5852c73178.png)
 
    - Klik "Install"
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124211040369.png" alt="image-20211124211040369" style="zoom:50%;" />
+     ![42](https://user-images.githubusercontent.com/94977405/143466554-8dcbebc4-e725-48a6-baec-c9b80ec1064a.png)
 
    - Setting ip static di cmd menggunakan command> sconfig
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124211217854.png" alt="image-20211124211217854" style="zoom:50%;" />
+     ![43](https://user-images.githubusercontent.com/94977405/143466559-d63dbc90-3ea3-4717-9626-6d0bb4ce0116.png)
+     
+     ![44](https://user-images.githubusercontent.com/94977405/143466581-4b70185d-7be3-44b5-a490-d851fc63ddce.png)
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124211246559.png" alt="image-20211124211246559" style="zoom:50%;" />
+     ![45](https://user-images.githubusercontent.com/94977405/143466596-496d21fb-e598-4984-8272-bc4e0d21d3fd.png)
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124211303427.png" alt="image-20211124211303427" style="zoom:50%;" />
-
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124211529681.png" alt="image-20211124211529681" style="zoom:50%;" />
+     ![46](https://user-images.githubusercontent.com/94977405/143466602-e7f7d954-17ba-48f4-a4bb-0817a145cbe2.png)
 
    - Setting IP Address Server-ADDS dan mengarah DNS ke IP address static yang digunakan
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124211544499.png" alt="image-20211124211544499" style="zoom:50%;" />
+     ![47](https://user-images.githubusercontent.com/94977405/143466609-50358629-99c7-4d94-b37b-fe6d28ded1d9.png)
 
    - Klik “Promote this server to a domain controller" untuk konfigurasi ADDS kemudian pilih “Add a new forest” dan masukkan nama domain yang akan digunakan pada Root Domain Name. Misalnya disini saya menggunakan domain “axel.com”
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124211720400.png" alt="image-20211124211720400" style="zoom:50%;" />
+     ![48](https://user-images.githubusercontent.com/94977405/143466619-e5ae1906-c4dd-412f-b18d-ec93e5c77ed5.png)
 
    - Pilih “Windows Server 2016” pada functional level, beri tanda centang pada “Domain Name System (DNS) server” dan ”Global Catalog (GC)”. Serta mengisi password Directory Services Restore Mode dengan kriteria strong password.
 
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124211824272.png" alt="image-20211124211824272" style="zoom:50%;" />
+     ![49](https://user-images.githubusercontent.com/94977405/143466634-551689f8-5a90-4bcb-88f1-efd4b980e3e6.png)
 
    - Lewati bagian DNS Options, lalu klik “Next”
    
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124211842449.png" alt="image-20211124211842449" style="zoom:50%;" />
+     ![50](https://user-images.githubusercontent.com/94977405/143466642-52a6d963-f140-4f54-b01a-a22e8b9d6c50.png)
    
    - Mengisi “The NetBIOS domain name” sesuai dengan nama domain yang digunakan
    
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124211858784.png" alt="image-20211124211858784" style="zoom:50%;" />
+     ![51](https://user-images.githubusercontent.com/94977405/143466653-ed478953-ef8e-47cd-b130-3cb62842e159.png)
    
    - Lewati bagian Paths, klik “Next”
    
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124211910576.png" alt="image-20211124211910576" style="zoom:50%;" />
+     ![52](https://user-images.githubusercontent.com/94977405/143466660-162cf597-9c5e-49ba-81d6-eeab61649aed.png)
    
    - Cek konfigurasi yang ditentukan pada Review Options, jika suda ok. Klik “Next”
    
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124211942806.png" alt="image-20211124211942806" style="zoom:50%;" />
+     ![53](https://user-images.githubusercontent.com/94977405/143466671-555d0704-a93b-46d6-96b5-293680b6dd76.png)
    
    - Jika sudah ada tulisan All prerequisite checks passed successfully. Klik “Install” untuk apply konfigurasi yang sudah ditentukan
    
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124212003095.png" alt="image-20211124212003095" style="zoom:50%;" />
+     ![54](https://user-images.githubusercontent.com/94977405/143466681-fc170ef0-ddcf-42c4-bce0-cf913c8a5739.png)
    
    - Kemudian login menggunakan password administrator
    
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124212030877.png" alt="image-20211124212030877" style="zoom:50%;" />
+     ![55](https://user-images.githubusercontent.com/94977405/143466694-b31ce2ac-888f-40c0-9fa3-42c87d2c80d2.png)
    
    - Untuk mengecek hasil konfigurasi, buka cmd dan ketikkan “netdom query fsmo"
    
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124212045296.png" alt="image-20211124212045296" style="zoom:50%;" />
+     ![56](https://user-images.githubusercontent.com/94977405/143466701-1d4b2579-b40e-450c-b2a8-117f6c72b3a6.png)
    
    - Setelah login dengan Active Directory Domain Controller Anda, buka properti TCP/IP koneksi jaringan Anda. Anda dapat melihat Alamat IP server DNS yang disukai
    
-     <img src="C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20211124212058354.png" alt="image-20211124212058354" style="zoom:50%;" />
+     ![57](https://user-images.githubusercontent.com/94977405/143466715-36449572-a0e5-4818-99c2-5c55ebb98bfc.png)
      
      
